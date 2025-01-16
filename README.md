@@ -8,7 +8,7 @@
 - **Backend**: Python (Flask), Node.js
 - **Machine Learning**: TensorFlow, Torch, Computer Vision
 - **Frontend**: HTML, CSS, JavaScript (React), Typescript (Svelte
-- **Computer Graphics**: OpenGL, Blender
+- **Testing**: JMeter, JUnit, Postman
 - **Mobile Development**: Flutter, Android Studio
 
 ## 🔥 My Featured Projects:
