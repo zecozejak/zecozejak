@@ -19,7 +19,6 @@
 
 ## 🌱 Currently Working On:
 - Advancing my knowledge in machine learning (image recognition, NLP)
-- Developing complex mobile applications with Android Studio
 - Enhancing backend solutions using Python
 - Enhancing DevOps solutions
 - Tennis ML model APP
