@@ -10,12 +10,13 @@
 - **Frontend**: HTML, CSS, JavaScript (React), Typescript (Svelte
 - **Testing**: JMeter, JUnit, Postman
 - **Mobile Development**: Flutter, Android Studio
+- **CI/CD**: Docker, Jenkins
 
 ## 🔥 My Featured Projects:
+- [Yarilo - Portable Active WiFi Analysis Tool](https://github.com/TypicalAM/Yarilo) - Portable WiFi Analysis Tool (Frontend contribution)
 - [Dog Breed Identifier](https://github.com/zecozejak/Dog-Breed-Identifier) - A machine learning model for dog breed classification
 - [WhoofMyDogApp](https://github.com/zecozejak/WhoofMyDogApp) - A mobile app for identifying dog breeds
 - [Computer Graphics Project: Museum](https://github.com/zecozejak/Computer-Graphics-Project-Museum) - A virtual museum simulation built with OpenGL
-- [Yarilo - Portable Active WiFi Analysis Tool](https://github.com/TypicalAM/Yarilo) - Portable WiFi Analysis Tool (Frontend contribution)
 
 ## 🌱 Currently Working On:
 - Advancing my knowledge in machine learning (image recognition, NLP)
